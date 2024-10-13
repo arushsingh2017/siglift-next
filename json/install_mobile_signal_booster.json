@@ -1,0 +1,33 @@
+{
+    "installbooster": [
+        {
+            "heading": "How to install it?",
+            "step": [
+                {
+                    "stepItem":"01.",
+                    "stepname": "Find a strong network zone outside",
+                    "stepdata": "Firstly you need to find an area where you get the strongest network. You can find that area in just three easy steps. Use your mobile signal bars to test the strongest network area in your home or workplace, and also a cell phone signal meter. There is various type of booster where some boosters have an LCD signal display. You can use it too and find that area or position with the highest signal reception strength"
+                },
+                {
+                    "stepItem":"02.",
+                    "stepname": "Installation of outside antenna",
+                    "stepdata": "If you want to install an antenna outside your house or office then you can install it by two techniques: wall mount and pole mount. First, you need to unscrew your signal booster antenna from the L mount bracket base, and then on the wall where you want to place it, mount a vertical plate with screws. At last screw it back onto the horizontal plate." 
+                },
+                {
+                    "stepItem":"03.",
+                    "stepname": "Connect to amplifier",
+                    "stepdata": "After the installation of the outside antenna connect it with the amplifier. Use a coaxial cable to connect outside antenna so that, it can transfer cell phone signal to cell phone mobile booster"},
+                {
+                    "stepItem":"04.",
+                    "stepname": "Install inside antenna",
+                    "stepdata": "First chose a position or space on your wall where you want to place the antenna, and then after that drill the screw, now you can mount the bracket on the wall. At last, put the antenna on it, and connect it with the amplifier." 
+                },
+                {
+                    "stepItem":"05.",
+                    "stepname": "Power on",
+                    "stepdata": "Plug in the amplifier to the power supplier and to the wall outlet. After all this, it gets synced up. Now you can experience high-quality calls, download your videos faster, and enjoy your fast phone signal. These are the step through which you can install a booster anywhere like the basement, flat, building, etc."
+                }
+            ]
+        }
+    ]
+}

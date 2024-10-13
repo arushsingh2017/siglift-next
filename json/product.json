@@ -1,0 +1,50 @@
+{
+    "productdata": [
+        {
+            "heading": "Our Products",
+            "shor_dis": "Utilizing a sophisticated amplification system composed of three key elements - an exterior antenna, an interior antenna, and a booster device - our mobile signal booster harnesses cutting-edge technology to repeatedly fortify weakened signals. These integral components work harmoniously to significantly enhance cellular networks in areas plagued by poor signal strength, ensuring users benefit from seamless and uninterrupted connectivity. We provide an array of signal boosters catering to 2G, 3G, and 4G, 5G/LTE networks, extending our services across prominent cities such as Delhi, Noida, Jaipur, Lucknow, Kolkata, Mumbai, Pune, Hyderabad, Bangalore, Chennai, and Kerala.",
+            "product_cat": [
+                {   
+                    "p_img":"/images/sl-900g.jpg",
+                    "pname":"SL-900G Mobile Signal Booster Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-850b.jpg",
+                    "pname":"SL-850B Mobile Signal Amplifier Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-850w.jpg",
+                    "pname":"SL-850W Mobile Phone Signal Amplifier Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-900w.jpg",
+                    "pname":"SL-900W Mobile Phone Signal Amplifier Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-900-23d.jpg",
+                    "pname":"SL-900-23D Mobile Signal Enhancer Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-900-sb.jpg",
+                    "pname":"SL-900-SB Cell Phone Reception Booster Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-900-mb.jpg",
+                    "pname":"SL-900-MB Cell Phone Network Booster Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                },
+                {
+                    "p_img":"/images/sl-27db-hg.jpg",
+                    "pname":"SL-27DB-HG Commercial Mobile Signal Booster Kit",
+                    "shotdis":"A powerful, multi-user cell signal booster designed for large homes and small businesses."
+                }
+            ]
+        }
+    ]
+}

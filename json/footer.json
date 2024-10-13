@@ -1,0 +1,36 @@
+{
+    "footerdata":[
+        {
+           "footeshortdis":"We are a leading mobile signal booster brand based in India. We specialize in providing high quality and reliable signal boosters that enhance mobile network connectivity and eliminate frustrating signal dropouts.",
+           "useful_link":[
+            {
+                "pagesname":"Home",
+                "pagesLink":"/"
+            },
+            {
+                "pagesname":"About",
+                "pagesLink":"/about-us"
+            },
+            {
+                "pagesname":"Contact",
+                "pagesLink":"/"
+            },
+            {
+                "pagesname":"Sitemap",
+                "pagesLink":"/"
+            }
+
+           ],
+           "pList":[
+            {
+                "pagesname":"Mobile Signal Booster Kits",
+                "pagesLink":"/mobile-signal-booster-kits"
+            },
+            {
+                "pagesname":"Mobile Network Booster Accessories",
+                "pagesLink":"/mobile-network-booster-accessories"
+            }
+           ]
+        }
+    ]
+}

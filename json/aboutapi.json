@@ -1,0 +1,37 @@
+{
+    "aboutdata": [
+        {
+            "about_title": "Who We Are",
+            "banner_dis1": "At Siglift, our commitment to delivering top-quality mobile signal boosters is unwavering. We believe that everyone should have access to seamless and uninterrupted connectivity, regardless of their location or circumstances. Our dedication to quality, innovation, and customer satisfaction sets us apart as the premier provider of mobile signal booster solutions.",
+            "banner_dis2": "The journey of enhancing your mobile signal begins with the outdoor antenna. Positioned on the exterior of a building or vehicle, this antenna's primary role is to capture the existing cellular signal, even if it is weak or fluctuating.",
+            "banner_dis3": "The signal amplifier is the central component of the mobile signal boosters. Once the outdoor antenna captures the cellular signal, the amplifier takes over, boosting its strength significantly",
+            "banner_dis4": "The indoor antenna is responsible for broadcasting the amplified signal within a building or vehicle, ensuring that you enjoy a strong and reliable mobile connection inside, where it may have been weak or nonexistent previously."
+        }
+    ],
+
+    "cat":[
+        {
+            "catname":"Home",
+            "caltlink":"/",
+            "cat_icon":"/images/home_icon.webp"
+        },
+        {
+            "catname":"Small Business ",
+            "caltlink":"/",
+            "cat_icon":"/images/store.webp"
+        },
+        {
+            "catname":"Commercial Buildings ",
+            "caltlink":"/",
+            "cat_icon":"/images/building.webp"
+        },
+        {
+            "catname":"Parts & Accessories1 ",
+            "caltlink":"/",
+            "cat_icon":"/images/acceseries.webp"
+        }
+    ]
+
+   
+}
+

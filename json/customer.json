@@ -1,0 +1,54 @@
+{
+    "Client":[
+        {
+            "title":"Customer",
+            "shortData":"Hi I am client data here",
+
+            "govt":[
+                {
+                    "name":"one",
+                    "logo":"/images/airtel.png"
+                },
+                {
+                    "name":"Two",
+                    "logo":"/images/airtel.png"
+                },
+                {
+                    "name":"Three",
+                    "logo":"/images/airtel.png"
+                },
+                {
+                    "name":"Four",
+                    "logo":"/images/airtel.png"
+                }
+            ],
+            "hospitality":[
+                {
+                    "name":"1 one",
+                    "logo":"/images/vi.png"
+                },
+                {
+                    "name":"1 Two",
+                    "logo":"/images/vi.png"
+                },
+                {
+                    "name":"Three",
+                    "logo":"/images/vi.png"
+                }
+                
+            ],
+            "ites":[
+                {
+                    "name":"2 one",
+                    "logo":"/images/jio.png"
+                },
+                {
+                    "name":" 2 Two",
+                    "logo":"/images/jio.png"
+                }
+            
+            ]
+
+        }
+    ]
+}
